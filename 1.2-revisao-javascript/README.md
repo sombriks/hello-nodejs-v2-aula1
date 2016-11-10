@@ -167,10 +167,12 @@ lista1.shift();
 // ["Arroz",{a:2}]
 lista1.unshift(4);
 // [4,"Arroz",{a:2}]
+lista1.length;
+// 3
 
 var mapa1 = {a:1};
-mapa.b=2;
-mapa.c={d:3};
+mapa1.b=2;
+mapa1.c={d:3};
 // {a:1, b:2, c:{d:3}}
 ```
 
