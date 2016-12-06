@@ -1,6 +1,6 @@
 # GIT com Github
 
-- 30 minutos para a execução desta oficina
+- 30 minutos para executar desta oficina
 
 ## Definição
 
